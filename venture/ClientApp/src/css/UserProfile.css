@@ -1,0 +1,22 @@
+.buyButton {
+    background-color: #52c41a;
+    border-color: #52c41a;
+    color: white;
+}
+
+.buyButton:hover {
+    background-color: #73d13d;
+    border-color: #73d13d;
+}
+
+
+.sellButton {
+    background-color: red !important; 
+    border-color: red !important;
+    color: white;
+}
+
+.sellButton:hover {
+    background-color: darkred !important;
+    border-color: darkred !important;
+}

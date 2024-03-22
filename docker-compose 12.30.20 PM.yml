@@ -1,0 +1,6 @@
+﻿services:
+  venture:
+    image: venture
+    build:
+      context: .
+      dockerfile: venture/Dockerfile
